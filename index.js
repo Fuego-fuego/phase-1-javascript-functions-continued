@@ -1,6 +1,6 @@
 // code your solution here
 
-// creating a unction using function declaration 
+// creating a function using function declaration 
 function saturdayFun (activity =`roller-skate` ){
 
     return `This Saturday, I want to ${activity}!`
